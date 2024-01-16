@@ -1,0 +1,4 @@
+comment do ... end do for hfbtho
+place rbm at the end of hfbtho module
+
+DONT use hN_c .. as H20N_c.   Should specifically decare H20N_c for rbm
